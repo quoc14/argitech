@@ -18,8 +18,6 @@ Có 3 điều, theo đúng thứ tự:
 2. **Có bằng chứng, số liệu chứng minh không?** → Đây là phần cần đầu tư nhiều nhất từ giờ.
 3. **Video và tài liệu có rõ ràng không?** → Trình bày đẹp là quan trọng, nhưng đứng **sau** 2 điều trên.
 
-Nói cách khác: **một video đẹp không cứu được một dự án thiếu bằng chứng.** Nên hãy lo có bằng chứng thật trước, rồi mới lo quay đẹp.
-
 **Nguyên tắc vàng:** ĐỪNG CHỈ NÓI — HÃY CHO XEM.
 
 - Đừng nói "sản phẩm hoạt động tốt" → **cho xem cảnh nó đang chạy + con số**.
@@ -45,8 +43,6 @@ Hầu hết cách xử lý **không phải sửa sản phẩm**, mà là **nói 
 | **"Sản phẩm tự động canh tác à?"**                        | Nói rõ: hệ thống **theo dõi → phát hiện bệnh → cảnh báo → tư vấn**; **chưa** tự phun thuốc/tưới/bón.                                                                                                                                                                                                                                                                                                                                |
 | **"Nhân rộng cả nước được không?"**                       | Nói thật: mình đang chạy ở **một trạm** (bước đầu). Việc đặt nhiều camera, camera zoom, giám sát từ xa là **hướng phát triển**, chưa làm.                                                                                                                                                                                                                                                                                           |
 | **"Em phụ trách phần nào?"** (hỏi từng bạn)               | **Mỗi bạn phải tự giải thích được phần mình làm** mà không cần anh/thầy nhắc.                                                                                                                                                                                                                                                                                                                                                       |
-
-**Mẹo chung:** trước mỗi câu định nói trong video, tự hỏi _"mình có bằng chứng cho câu này không?"_. Nếu chưa → hoặc đưa bằng chứng, hoặc đổi thành "hướng phát triển". **Tuyệt đối đừng nói điều mình mong đạt được như thể đã làm được rồi.**
 
 ### 2.2. Cách cân bằng dữ liệu & giúp AI nhận diện chính xác hơn
 
@@ -206,7 +202,7 @@ Các em điền cột **Ai làm / Hạn** cho từng dòng.
 - [ ] Chụp **bộ ảnh AI tô vùng bệnh** cho đẹp.
 - [ ] Viết **bảng các bản cải tiến** (bản 1 → 2 → 3).
 
-### ③ Ra ruộng / gặp nông dân (xếp lịch sớm vì phụ thuộc thời tiết)
+### ③ Ra ruộng / gặp nông dân (nếu có thể)
 
 - [ ] Cho **ít nhất 1 nông dân dùng thử** + quay **clip họ nói cảm nhận**.
 - [ ] **Khảo sát nhanh** vài nông dân để có số liệu về vấn đề.
@@ -222,7 +218,5 @@ Các em điền cột **Ai làm / Hạn** cho từng dòng.
 ## 6. Lời cuối
 
 Dự án của các em **tốt và thật**. Điều thuyết phục ban giám khảo là: **cho họ thấy sản phẩm chạy thật + thành thật về giới hạn + có hướng đi tiếp rõ ràng**.
-
-Cứ nhớ 3 bước: **chạy được (đã có) → chứng minh được (dồn sức làm) → trình bày rõ**. Và câu ngắn gọn nhất: **quay cho thật, nói cho đúng, đo cái đo được** — phần còn lại ghi vào hướng phát triển.
 
 Cố lên nhé!
