@@ -2,7 +2,7 @@
 
 > **Lưu ý từ anh:** Những góp ý dưới đây chỉ mang tính tham khảo. Các em nên luôn đặt câu hỏi “Tại sao?” trước mỗi đề xuất và chủ động lựa chọn điều phù hợp với sản phẩm, câu chuyện cũng như điều kiện thực tế của đội. Nếu các em thấy quan điểm và cách làm hiện tại của mình là hợp lý, hãy tự tin giữ vững . Mình cứ là mình thôi. Cố lên các em!
 >
-## Cách đọc ký hiệu t
+## Cách đọc ký hiệu 
 
 Trong tài liệu này, các ký hiệu như `D21` hoặc `D24:D26` dùng để chỉ vị trí nội dung trong file kịch bản Sheet:
 
